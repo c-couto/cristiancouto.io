@@ -3905,5 +3905,9 @@ input, select, textarea {
 			#intro {
 				background-attachment: scroll;
 			}
+			#intro {
+    			background-image: url("../../images/banner_ccouto.jpg");
+    			background-size: cover;
+    			background-position: center;
 
 		}
